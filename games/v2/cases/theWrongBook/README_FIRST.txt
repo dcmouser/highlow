@@ -6,11 +6,11 @@ All of the files you need to play the game are here.
 You should *NOT* try to print these documents out -- they are far too big and are not formatted for printing
 (if you want a version of the storybook formatted for double sided two-column printing let me know).
 
-The ONLY document you should print out is "High & Low - Case Log.pdf" for recording your progress, and possibly the Research Guide which has a quick list of useful reference locations.
+The ONLY document you should print out is "High & Low - Case Log - Clocked.pdf" for recording your progress, and possibly the Research Guide which has a quick list of useful reference locations.
 
 ---
 
-NOTE:
+NOTE: This version now employs a time tracking system.  Let me know what you think of it.
 
 ---
 
